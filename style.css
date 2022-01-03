@@ -21,6 +21,7 @@ nav {
   top: 0;
   width: 100%;
   background-color: #1e2227;
+  z-index: 1;
 }
 
 .logo {
